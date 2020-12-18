@@ -1,5 +1,7 @@
 # Tutorial: Getting started
 
+> [https://golang.org/doc/tutorial/getting-started.html](https://golang.org/doc/tutorial/getting-started.html)
+
 Hello World Example
 
 go里有module，package，function的概念。其中package是一种组织function的方式，package属于module。

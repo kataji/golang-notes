@@ -1,6 +1,6 @@
 # Tutorial: Create a module
 
-[https://golang.org/doc/tutorial/create-module](https://golang.org/doc/tutorial/create-module)
+> [https://golang.org/doc/tutorial/create-module](https://golang.org/doc/tutorial/create-module)
 
 go里面module是用来组织package的，package是用来组织function的。module会有一个类似package.json的文件：go.mod，用来描述module的名字、go版本、依赖列表和依赖的版本。
 
